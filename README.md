@@ -1,5 +1,5 @@
 # IncrEase, a tool for Incremental Network Planning
-This is one of the tools I developed as part of my PhD at the University of Edinburgh. There isn't much documentation around, but feel free to get in touch by [email](mino@minux.it)!
+This is one of the tools I developed as part of my PhD at the University of Edinburgh. There isn't much documentation around, but feel free to get in touch by [email](mailto:mino@minux.it)!
 
 Here a short abstract:
 > Our IncrEase tool elaborates a varied set of operational metrics to guide the operator in identifying the regions that would benefit the most from a network upgrade, automatically suggesting the set of “moves” (e.g., new transmission sites to deploy) that leads to the best long term strategy.
