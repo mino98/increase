@@ -8,3 +8,13 @@ Please refer to [this publication](http://ieeexplore.ieee.org/abstract/document/
 > Giacomo Bernardi, Francesco Talamona, Dmitry Rykovanov and Mahesh K. Marina. *IncrEase: A Tool for Incremental Planning of Rural Fixed Broadband Wireless Access Networks.* In the proceedings of the IEEE GLOBECOM work- shop on Rural Communications (RuralComm). December 2011. 
 
 and to Chapter 4 of my thesis, which is available [here](https://www.era.lib.ed.ac.uk/handle/1842/6241?show=full)
+
+## Sample screenshots of the IncrEase application:
+![Screenshot](/screenshot.png?raw=true)
+- (a) Coverage demand heatmap; 
+- (b) Coverage layer, showing the locations in LOS with any of the deployed towers; 
+- (c) Location of the over 8,000 towers in set T; 
+- (d) Selecting an area from the GUI for the Targeted Increase operating mode; 
+- (e and f) Results of the Targeted Increase algorithm are displayed as text and on the map; 
+- (g) Selecting the number of steps to calculate for the Strategy Search mode; 
+- (h) Results of a Strategy Search are displayed on a map.
