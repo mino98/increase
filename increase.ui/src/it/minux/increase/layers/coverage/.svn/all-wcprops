@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/increase.ui/src/it/minux/increase/layers/coverage
+END
+AdvWMSElevationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/increase.ui/src/it/minux/increase/layers/coverage/AdvWMSElevationModel.java
+END
+CoverageMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/increase.ui/src/it/minux/increase/layers/coverage/CoverageMap.java
+END
+AdvElevationModelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/increase.ui/src/it/minux/increase/layers/coverage/AdvElevationModelFactory.java
+END
+IAdvElevationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/increase.ui/src/it/minux/increase/layers/coverage/IAdvElevationModel.java
+END
+DistanceToPointComaparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/increase.ui/src/it/minux/increase/layers/coverage/DistanceToPointComaparator.java
+END
+JTSUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/increase.ui/src/it/minux/increase/layers/coverage/JTSUtils.java
+END
+AdvElevationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/increase.ui/src/it/minux/increase/layers/coverage/AdvElevationModel.java
+END
+TowersTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/increase.ui/src/it/minux/increase/layers/coverage/TowersTree.java
+END

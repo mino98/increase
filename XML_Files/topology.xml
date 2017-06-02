@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<topology>
+	<tower>
+		<id>E-DUM</id>
+		<panel>
+			<height>30</height>
+			<mintilt>-7</mintilt>
+			<maxtilt>3</maxtilt>
+			<minazimuth>225</minazimuth>
+			<maxazimuth>285</maxazimuth>
+			<maxdistance>25</maxdistance>
+		</panel>
+		<panel>
+			<height>30</height>
+			<mintilt>-7</mintilt>
+			<maxtilt>3</maxtilt>
+			<minazimuth>285</minazimuth>
+			<maxazimuth>345</maxazimuth>
+			<maxdistance>25</maxdistance>
+		</panel>
+	</tower>
+	<tower>
+		<id>E-TRAV</id>
+		<panel>
+			<height>30</height>
+			<mintilt>-7</mintilt>
+			<maxtilt>3</maxtilt>
+			<minazimuth>280</minazimuth>
+			<maxazimuth>340</maxazimuth>
+			<maxdistance>25</maxdistance>
+		</panel>
+	</tower>
+</topology>

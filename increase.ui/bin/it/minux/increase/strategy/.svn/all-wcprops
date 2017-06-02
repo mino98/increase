@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/strategy
+END
+StrategySearchProcessor$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/strategy/StrategySearchProcessor$1.class
+END
+NodeComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/strategy/NodeComparator.class
+END
+DerivedStateEquivalenceKey.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/strategy/DerivedStateEquivalenceKey.class
+END
+DerivedTopologyState.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/strategy/DerivedTopologyState.class
+END
+AbstractTopologyState.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/strategy/AbstractTopologyState.class
+END
+RootTopologyState.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/strategy/RootTopologyState.class
+END
+DerivedTopologyState$DelegatingIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/strategy/DerivedTopologyState$DelegatingIterator.class
+END
+IStateEquivalenceKey.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/strategy/IStateEquivalenceKey.class
+END
+ITopologyState.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/strategy/ITopologyState.class
+END
+StrategySearchProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/strategy/StrategySearchProcessor.class
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/visibility
+END
+VisibilityGraph$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/visibility/VisibilityGraph$1.class
+END
+VisibilityGraph$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/visibility/VisibilityGraph$2.class
+END
+VisibilityGraph$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/visibility/VisibilityGraph$3.class
+END
+VisibilityGraph$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/visibility/VisibilityGraph$4.class
+END
+AdvSingleSourceShortestPathDijkstra.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/visibility/AdvSingleSourceShortestPathDijkstra.class
+END
+VisibilityGraph$TowerRelationships.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/visibility/VisibilityGraph$TowerRelationships.class
+END
+AdvAStar$Data.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/visibility/AdvAStar$Data.class
+END
+AdvDijkstra$DijstraIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/visibility/AdvDijkstra$DijstraIterator.class
+END
+AdvAStar.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/visibility/AdvAStar.class
+END
+AdvDijkstra.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/visibility/AdvDijkstra.class
+END
+VisibilityGraph.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/visibility/VisibilityGraph.class
+END
+VisibilityGraph$TowerWithCost.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/visibility/VisibilityGraph$TowerWithCost.class
+END
+AdvAStar$Doer.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/visibility/AdvAStar$Doer.class
+END
+ElevationHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/visibility/ElevationHelper.class
+END
+AdvCostEvaluator.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/visibility/AdvCostEvaluator.class
+END

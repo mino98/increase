@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema targetNamespace="http://www.minux.it/increase" elementFormDefault="qualified" xmlns="http://www.w3.org/2001/XMLSchema" 
+xmlns:increase="http://www.minux.it/increase">
+    <annotation>
+    	<documentation>XML Schema for IncrEease - List of towers</documentation></annotation>
+    	
+    <element name="towers" type="increase:towerType"></element>
+
+    <complexType name="increase:towerType">
+    	<sequence>
+    		<element name="id" type="ID" maxOccurs="1" minOccurs="1"></element>
+    		<element name="latitude" type="decimal" maxOccurs="1" minOccurs="1"></element>
+    		<element name="longitude" type="decimal" maxOccurs="1" minOccurs="1"></element>
+    		<element name="cost" type="decimal" maxOccurs="1" minOccurs="1"></element>
+    	</sequence>
+    </complexType>
+</schema>

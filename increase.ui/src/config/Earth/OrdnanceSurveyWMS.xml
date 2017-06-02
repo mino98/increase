@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--$Id: LandsatI3WMSLayer.xml 13209 2010-03-12 09:49:06Z tgaskins $-->
+<Layer version="1" layerType="TiledImageLayer">
+    <DisplayName>OrdnanceSurvey</DisplayName>
+    <Service serviceName="OGC:WMS" version="1.3">
+        <GetCapabilitiesURL>http://openstream.edina.ac.uk/openstream/wms?token=70c6b1846e43d830386af1cd528c3ee84b8ffc5e83b382bb59bd2b84&</GetCapabilitiesURL>
+        <GetMapURL>http://openstream.edina.ac.uk/openstream/wms?token=70c6b1846e43d830386af1cd528c3ee84b8ffc5e83b382bb59bd2b84&</GetMapURL>
+        <LayerNames>Miniscale_100</LayerNames>
+    </Service>
+    <RetrievePropertiesFromService>true</RetrievePropertiesFromService>
+    <!-- day month year hours:minutes:seconds timezone -->
+    <LastUpdate>26 03 2009 00:00:00 GMT</LastUpdate>
+    <DataCacheName>Ordnance Survey</DataCacheName>
+    <ImageFormat>image/png</ImageFormat>
+    <AvailableImageFormats>
+        <ImageFormat>image/png</ImageFormat>
+        <ImageFormat>image/jpeg</ImageFormat>
+        <ImageFormat>image/gif</ImageFormat>
+    </AvailableImageFormats>
+    <FormatSuffix>.dds</FormatSuffix>
+    <NumLevels count="10" numEmpty="4"/>
+    <TileOrigin>
+        <LatLon units="degrees" latitude="-90" longitude="-180"/>
+    </TileOrigin>
+    <LevelZeroTileDelta>
+        <LatLon units="degrees" latitude="36" longitude="36"/>
+    </LevelZeroTileDelta>
+    <TileSize>
+        <Dimension width="512" height="512"/>
+    </TileSize>
+    <Sector>
+        <SouthWest>
+            <LatLon units="degrees" latitude="-90" longitude="-180"/>
+        </SouthWest>
+        <NorthEast>
+            <LatLon units="degrees" latitude="90" longitude="180"/>
+        </NorthEast>
+    </Sector>
+    <UseTransparentTextures>true</UseTransparentTextures>
+    <RetrievalTimeouts>
+        <ReadTimeout>
+            <Time units="milliseconds" value="20000"/>
+        </ReadTimeout>
+    </RetrievalTimeouts>
+</Layer>

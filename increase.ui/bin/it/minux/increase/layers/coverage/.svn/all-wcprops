@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/layers/coverage
+END
+JTSUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/layers/coverage/JTSUtils.class
+END
+AdvElevationModel.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/layers/coverage/AdvElevationModel.class
+END
+TowersTree.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/layers/coverage/TowersTree.class
+END
+TowersTreeTest.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/layers/coverage/TowersTreeTest.class
+END
+AdvWMSElevationModel.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/layers/coverage/AdvWMSElevationModel.class
+END
+CoverageMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/layers/coverage/CoverageMap.class
+END
+AdvElevationModelFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/layers/coverage/AdvElevationModelFactory.class
+END
+IAdvElevationModel.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/layers/coverage/IAdvElevationModel.class
+END
+DistanceToPointComaparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/increase.ui/bin/it/minux/increase/layers/coverage/DistanceToPointComaparator.class
+END

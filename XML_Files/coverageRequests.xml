@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<coverageRequests>
+	<coverageRequest>
+		<longitude>12.606783</longitude>
+		<latitude>43.969619</latitude>
+		<timestamp>2011-05-15T12:28:00+02:00</timestamp>
+	</coverageRequest>
+	<coverageRequest>
+		<longitude>14.510302</longitude>
+		<latitude>40.672238</latitude>
+		<timestamp>2007-02-04T00:00:00+01:00</timestamp>
+	</coverageRequest>
+</coverageRequests>
