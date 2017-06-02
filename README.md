@@ -4,6 +4,7 @@ This is one of the tools I developed as part of my PhD at the University of Edin
 Here a short abstract:
 > Our IncrEase tool elaborates a varied set of operational metrics to guide the operator in identifying the regions that would benefit the most from a network upgrade, automatically suggesting the set of “moves” (e.g., new transmission sites to deploy) that leads to the best long term strategy.
 
+## Publications:
 Please refer to [this publication](http://ieeexplore.ieee.org/abstract/document/6162330/):
 > Giacomo Bernardi, Francesco Talamona, Dmitry Rykovanov and Mahesh K. Marina. *IncrEase: A Tool for Incremental Planning of Rural Fixed Broadband Wireless Access Networks.* In the proceedings of the IEEE GLOBECOM work- shop on Rural Communications (RuralComm). December 2011. 
 
